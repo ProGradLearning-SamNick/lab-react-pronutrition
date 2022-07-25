@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/lab-react-pronutrition/static/css/main.073c9b0a.css",
-    "main.js": "/lab-react-pronutrition/static/js/main.1ae35ba2.js",
+    "main.css": "/lab-react-pronutrition/static/css/main.2dba29ab.css",
+    "main.js": "/lab-react-pronutrition/static/js/main.c4592004.js",
     "static/js/787.82c61f35.chunk.js": "/lab-react-pronutrition/static/js/787.82c61f35.chunk.js",
-    "static/media/logo.svg": "/lab-react-pronutrition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lab-react-pronutrition/index.html",
-    "main.073c9b0a.css.map": "/lab-react-pronutrition/static/css/main.073c9b0a.css.map",
-    "main.1ae35ba2.js.map": "/lab-react-pronutrition/static/js/main.1ae35ba2.js.map",
+    "main.2dba29ab.css.map": "/lab-react-pronutrition/static/css/main.2dba29ab.css.map",
+    "main.c4592004.js.map": "/lab-react-pronutrition/static/js/main.c4592004.js.map",
     "787.82c61f35.chunk.js.map": "/lab-react-pronutrition/static/js/787.82c61f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ae35ba2.js"
+    "static/css/main.2dba29ab.css",
+    "static/js/main.c4592004.js"
   ]
 }
